@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "title": "NSFDC FAQ - General Eligibility & Income Ceiling",
+      "scheme_code": "NSFDC-GENERAL",
+      "text": "The National Scheduled Castes Finance and Development Corporation (NSFDC) provides concessional financial assistance to eligible Scheduled Caste (SC) beneficiaries. The annual family income limit for concessional loan assistance is presently up to ₹5.00 lakh per annum in both rural and urban areas.",
+      "source_url": "https://nsfdc.nic.in/faqs"
+    },
+    {
+      "title": "NSFDC FAQ - Term Loan Scheme (TL)",
+      "scheme_code": "NSFDC-TL",
+      "text": "NSFDC Term Loan is designed for income-generating projects costing above ₹1.40 lakh and up to ₹50.00 lakh. The maximum loan assistance is up to 90% of the project cost (max ₹45.00 lakh) at a concessional interest rate of 8% per annum for the beneficiary. Repayment is structured within 7 years including a 6-month moratorium period, extendable up to 12 months for plantation and construction activities. Implemented via State Channelizing Agencies (SCAs) and Regional Rural Banks.",
+      "source_url": "https://nsfdc.nic.in/faqs"
+    },
+    {
+      "title": "NSFDC FAQ - Udyam Nidhi Yojana (UNY)",
+      "scheme_code": "NSFDC-UNY",
+      "text": "Udyam Nidhi Yojana (UNY) offers loans for small or micro business activities with project cost up to ₹5.00 lakh. The maximum loan amount is ₹4.50 lakh. It is implemented through Cooperative Societies and Cooperative Banks at a beneficiary interest rate of 13% per annum, and through Small Finance Banks at 15% per annum. Repayment tenure is up to 5 years with a 3-month moratorium.",
+      "source_url": "https://nsfdc.nic.in/faqs"
+    },
+    {
+      "title": "NSFDC FAQ - Micro Finance Scheme (MFS)",
+      "scheme_code": "NSFDC-MFS",
+      "text": "The Micro Finance Scheme (MFS) supports small business and micro-credit activities for SC entrepreneurs. Project cost ceiling is up to ₹1.40 lakh, with maximum loan up to ₹1.25 lakh. Beneficiary interest rate is 6.5% per annum. Repayment is within 3 years including a 3-month moratorium.",
+      "source_url": "https://nsfdc.nic.in/faqs"
+    },
+    {
+      "title": "NSFDC FAQ - Aajeevika Micro-Finance Yojana (AMY)",
+      "scheme_code": "NSFDC-AMY",
+      "text": "Aajeevika Micro-Finance Yojana (AMY) provides rapid micro-finance assistance through selected NBFC-MFIs for projects up to ₹1.40 lakh. Maximum loan limit is ₹1.25 lakh. Repayment tenure is 3 years with 3 months moratorium.",
+      "source_url": "https://nsfdc.nic.in/faqs"
+    },
+    {
+      "title": "NSFDC FAQ - Mahila Samriddhi Yojana (MSY)",
+      "scheme_code": "NSFDC-MSY",
+      "text": "Mahila Samriddhi Yojana (MSY) is a dedicated micro-credit scheme for Scheduled Caste female entrepreneurs. Project cost ceiling is up to ₹1.40 lakh with maximum loan assistance of ₹1.25 lakh. The interest rate for women beneficiaries is highly concessional at 4% per annum. Repayment is within 3 years including a 3-month moratorium.",
+      "source_url": "https://nsfdc.nic.in/mahila-samriddhi-yojana"
+    },
+    {
+      "title": "NSFDC FAQ - Green Business Scheme (GBS)",
+      "scheme_code": "NSFDC-GBS",
+      "text": "The Green Business Scheme (GBS) provides financial support for SC entrepreneurs embarking on eco-friendly and sustainable business activities such as solar power equipment, e-rickshaws, compressed bio-gas plants, organic farming, and waste management. Maximum project cost is up to ₹30.00 lakh with interest rate of 6% per annum and repayment up to 7 years.",
+      "source_url": "https://nsfdc.nic.in/green-business-scheme"
+    }
+  ]
+}

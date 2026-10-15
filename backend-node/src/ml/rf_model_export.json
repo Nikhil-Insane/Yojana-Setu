@@ -1,0 +1,125 @@
+{
+  "classes": [
+    "MUDRA-KISHOR",
+    "MUDRA-SHISHU",
+    "NBCFDC-GLS",
+    "NBCFDC-SWARNIMA",
+    "NMDFC-TL",
+    "NMDFC-VIRASAT",
+    "NSFDC-MFS",
+    "NSFDC-MSY",
+    "NSFDC-TL",
+    "NSTFDC-AMY",
+    "NSTFDC-TERM",
+    "PM-VISHWAKARMA",
+    "PMEGP-MFG",
+    "PMEGP-SRV",
+    "STANDUP-INDIA"
+  ],
+  "categorical_features": [
+    "gender",
+    "category",
+    "business_type",
+    "location_type"
+  ],
+  "numeric_features": [
+    "age",
+    "annual_family_income",
+    "project_cost"
+  ],
+  "categories_per_cat_feature": {
+    "gender": [
+      "Female",
+      "Male",
+      "Other"
+    ],
+    "category": [
+      "General",
+      "Minority",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "business_type": [
+      "Auto Repair & Transport Service",
+      "Beauty Parlour & Wellness",
+      "Carpentry & Blacksmithing",
+      "Dairy, Poultry & Livestock",
+      "Electrical & Electronics Repair",
+      "Food Processing & Snacks",
+      "Handicrafts & Traditional Artisan",
+      "Handloom & Tailoring",
+      "IT & Digital Services",
+      "Pottery & Leatherwork",
+      "Retail Kirana & Grocery",
+      "Small Manufacturing & Workshop"
+    ],
+    "location_type": [
+      "Rural",
+      "Urban"
+    ]
+  },
+  "top_features": [
+    {
+      "feature": "project_cost",
+      "importance": 0.3132
+    },
+    {
+      "feature": "annual_family_income",
+      "importance": 0.1012
+    },
+    {
+      "feature": "category_SC",
+      "importance": 0.0723
+    },
+    {
+      "feature": "gender_Female",
+      "importance": 0.0663
+    },
+    {
+      "feature": "category_ST",
+      "importance": 0.0624
+    },
+    {
+      "feature": "category_Minority",
+      "importance": 0.0561
+    },
+    {
+      "feature": "business_type_Small Manufacturing & Workshop",
+      "importance": 0.0499
+    },
+    {
+      "feature": "category_OBC",
+      "importance": 0.0492
+    },
+    {
+      "feature": "gender_Male",
+      "importance": 0.0425
+    },
+    {
+      "feature": "business_type_Handicrafts & Traditional Artisan",
+      "importance": 0.0339
+    },
+    {
+      "feature": "business_type_Carpentry & Blacksmithing",
+      "importance": 0.0333
+    },
+    {
+      "feature": "business_type_Pottery & Leatherwork",
+      "importance": 0.0331
+    },
+    {
+      "feature": "category_General",
+      "importance": 0.0255
+    },
+    {
+      "feature": "age",
+      "importance": 0.0231
+    },
+    {
+      "feature": "business_type_Auto Repair & Transport Service",
+      "importance": 0.0064
+    }
+  ],
+  "accuracy": 0.9883
+}

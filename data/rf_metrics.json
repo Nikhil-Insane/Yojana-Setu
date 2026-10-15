@@ -1,0 +1,23 @@
+{
+  "model": "RandomForestClassifier",
+  "train_accuracy": 0.9955,
+  "test_accuracy": 0.983,
+  "classes": [
+    "MUDRA-KISHOR",
+    "MUDRA-SHISHU",
+    "NBCFDC-GLS",
+    "NBCFDC-SWARNIMA",
+    "NMDFC-TL",
+    "NMDFC-VIRASAT",
+    "NSFDC-MFS",
+    "NSFDC-MSY",
+    "NSFDC-TL",
+    "NSTFDC-AMY",
+    "NSTFDC-TERM",
+    "PM-VISHWAKARMA",
+    "PMEGP-MFG",
+    "PMEGP-SRV",
+    "STANDUP-INDIA"
+  ],
+  "macro_f1": 0.973
+}

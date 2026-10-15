@@ -1,0 +1,16 @@
+{
+  "documents": [
+    {
+      "title": "NBCFDC FAQ - General Loan Scheme for OBCs",
+      "scheme_code": "NBCFDC-GLS",
+      "text": "National Backward Classes Finance and Development Corporation (NBCFDC) provides financial assistance to members of Other Backward Classes (OBCs) with annual family income up to ₹3.00 lakh. General Loan Scheme covers project cost up to ₹15.00 lakh per beneficiary at an interest rate of 6% to 8% per annum. Repayment tenure is up to 8 years including moratorium.",
+      "source_url": "https://nbcfdc.gov.in/schemes/general-loan"
+    },
+    {
+      "title": "NBCFDC FAQ - New Swarnima Scheme for OBC Women",
+      "scheme_code": "NBCFDC-SWARNIMA",
+      "text": "New Swarnima Scheme is designed specifically for OBC women entrepreneurs to make them self-reliant. Maximum loan limit is ₹2.00 lakh at a concessional interest rate of 5% per annum. Annual family income ceiling is ₹3.00 lakh. Repayment tenure is 8 years.",
+      "source_url": "https://nbcfdc.gov.in/schemes/swarnima"
+    }
+  ]
+}

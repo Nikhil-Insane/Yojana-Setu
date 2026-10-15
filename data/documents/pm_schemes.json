@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "title": "PMEGP FAQ - Prime Minister's Employment Generation Programme",
+      "scheme_code": "PMEGP",
+      "text": "PMEGP is a major credit-linked capital subsidy scheme for setting up new micro-enterprises. Max project cost is ₹50.00 lakh for manufacturing and ₹20.00 lakh for service sector. For SC, ST, OBC, Minorities, Women, and PwD beneficiaries (Special Category), the government subsidy is 25% in urban areas and 35% in rural areas. Beneficiary contribution is only 5%. Implemented by KVIC, State KVIBs, and DICs through scheduled banks.",
+      "source_url": "https://kviconline.gov.in/pmegpeportal"
+    },
+    {
+      "title": "PM Vishwakarma FAQ - Support for Artisans & Craftspeople",
+      "scheme_code": "PM-VISHWAKARMA",
+      "text": "PM Vishwakarma provides end-to-end holistic support to traditional artisans across 18 trades (carpenters, blacksmiths, armorers, cobblers, weavers, etc.). Key benefits include collateral-free enterprise development loan up to ₹3.00 lakh (Tranche 1: ₹1 Lakh, Tranche 2: ₹2 Lakhs) at a concessional interest rate of 5%, skill training with ₹500/day stipend, digital transaction incentive, and ₹15,000 toolkit e-voucher.",
+      "source_url": "https://pmvishwakarma.gov.in"
+    },
+    {
+      "title": "Stand-Up India Scheme FAQ",
+      "scheme_code": "STANDUP-INDIA",
+      "text": "Stand-Up India facilitates bank loans between ₹10.00 lakh and ₹1.00 Crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one Woman borrower per bank branch for setting up a greenfield (new) enterprise in manufacturing, services, agriculture-allied, or trading sector.",
+      "source_url": "https://www.standupmitra.in"
+    },
+    {
+      "title": "Pradhan Mantri MUDRA Yojana (PMMY) FAQ",
+      "scheme_code": "MUDRA",
+      "text": "MUDRA scheme provides collateral-free loans up to ₹10.00 lakh to non-farm micro and small enterprises. Divided into 3 categories: Shishu (loans up to ₹50,000), Kishor (loans from ₹50,001 to ₹5.00 lakh), and Tarun (loans from ₹5.00 lakh to ₹10.00 lakh). Accessible to SC, ST, OBC, Women, and small business owners.",
+      "source_url": "https://www.mudra.org.in"
+    }
+  ]
+}

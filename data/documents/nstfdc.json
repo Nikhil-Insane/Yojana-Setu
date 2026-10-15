@@ -1,0 +1,22 @@
+{
+  "documents": [
+    {
+      "title": "NSTFDC FAQ - Term Loan Scheme for ST Entrepreneurs",
+      "scheme_code": "NSTFDC-TL",
+      "text": "The National Scheduled Tribes Finance and Development Corporation (NSTFDC) provides Term Loans for Scheduled Tribe (ST) individuals/entrepreneurs for viable income-generating projects costing up to ₹50.00 lakh. Maximum loan assistance is 90% of unit cost. Interest rate is 6% per annum for loans up to ₹5 lakh, and 8% per annum for loans above ₹5 lakh. Repayment tenure is up to 10 years including moratorium up to 1 year.",
+      "source_url": "https://nstfdc.tribal.gov.in/schemes/term-loan"
+    },
+    {
+      "title": "NSTFDC FAQ - Adivasi Mahila Sashaktikaran Yojana (AMES)",
+      "scheme_code": "NSTFDC-AMES",
+      "text": "Adivasi Mahila Sashaktikaran Yojana (AMES) is an exclusive concessional scheme for Scheduled Tribe (ST) women entrepreneurs. Unit cost up to ₹2.00 lakh per beneficiary. Loan assistance is 90% of unit cost at a highly subsidized interest rate of 4% per annum. Repayment is in quarterly installments over 5 years including a 6-month moratorium.",
+      "source_url": "https://nstfdc.tribal.gov.in/schemes/ames"
+    },
+    {
+      "title": "NSTFDC FAQ - Micro Credit Scheme for Self Help Groups (MCS)",
+      "scheme_code": "NSTFDC-MCS",
+      "text": "Micro Credit Scheme for ST Self Help Groups (SHGs) provides credit for micro-enterprises. Maximum loan per SHG is ₹5.00 lakh, subject to a maximum of ₹50,000 per member. Interest rate charged to SHGs is 6% per annum. Repayment is within 5 years.",
+      "source_url": "https://nstfdc.tribal.gov.in/schemes/micro-credit"
+    }
+  ]
+}

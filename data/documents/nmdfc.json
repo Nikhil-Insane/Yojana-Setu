@@ -1,0 +1,16 @@
+{
+  "documents": [
+    {
+      "title": "NMDFC FAQ - Term Loan Scheme for Minorities",
+      "scheme_code": "NMDFC-TL",
+      "text": "National Minorities Development and Finance Corporation (NMDFC) offers concessional credit to notified Minority Communities (Muslims, Christians, Sikhs, Buddhists, Parsis, Jains). Term Loan scheme finances projects costing up to ₹30.00 lakh at 6% interest per annum. Income ceiling is ₹3.00 lakh per annum. Repayment tenure is up to 5 years.",
+      "source_url": "https://nmdfc.org/term-loan"
+    },
+    {
+      "title": "NMDFC FAQ - Virasat Scheme for Traditional Artisans",
+      "scheme_code": "NMDFC-VIRASAT",
+      "text": "Virasat Scheme is aimed at preserving traditional arts and crafts by providing concessional credit to minority artisans and weavers. Loan amount up to ₹10.00 lakh at 5% interest per annum for male artisans and 4% for female artisans. Repayment in 5 years.",
+      "source_url": "https://nmdfc.org/virasat"
+    }
+  ]
+}
